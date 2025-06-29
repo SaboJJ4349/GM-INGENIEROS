@@ -1,0 +1,23 @@
+[theme]
+base = "light"
+primaryColor = "#667eea"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#2C3E50"
+
+[server]
+enableStaticServing = false
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+showErrorDetails = false
+
+[logger]
+level = "warning"
+
+[client]
+caching = true
+displayEnabled = true
+showErrorDetails = false

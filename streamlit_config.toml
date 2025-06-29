@@ -1,0 +1,26 @@
+# 🔗 Archivo para configuración en Streamlit Cloud
+# Este archivo debe estar en la raíz del proyecto
+
+[theme]
+base = "light"
+primaryColor = "#667eea"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8f9fa"
+textColor = "#2C3E50"
+
+[server]
+# Configuración específica para Streamlit Cloud
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
+
+[logger]
+level = "error"
+
+[client]
+caching = true
+displayEnabled = true
