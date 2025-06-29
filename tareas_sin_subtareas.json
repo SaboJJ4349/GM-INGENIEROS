@@ -1,0 +1,559 @@
+{
+    "Administración y Sistemas": {
+        "SistemasGM": {
+            "Tareas": {
+                "pendiente": [
+                    {
+                        "nombre": "Entregable GM proyecto java 1",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "percy barrenechea"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    }
+                ],
+                "en progreso": [
+                    {
+                        "nombre": "Implementar solucion para crear reporte desde data ClickUp",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Juan Jesus Sabogal Castillo"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Apoyo al área de administración",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Maricielo Arone"
+                        ],
+                        "fecha_inicio": "09/05/25",
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Correciones del proyecto principal / java / mysql",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "percy barrenechea",
+                            "Stephany Lisseth Huertas Huallcca "
+                        ],
+                        "fecha_inicio": "05/05/25",
+                        "fecha_limite": "23/05/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Implementar click up a otras Area",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Yoshiharu Ijuma Rojas"
+                        ],
+                        "fecha_inicio": "05/05/25",
+                        "fecha_limite": "30/05/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Integrar activity watch con nuevas funcionalidades",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Luis Perez",
+                            "DYLAN DAVID DOMINGUEZ PEREZ"
+                        ],
+                        "fecha_inicio": "21/04/25",
+                        "fecha_limite": "13/06/25",
+                        "prioridad": "urgent"
+                    },
+                    {
+                        "nombre": "AppScript para detectar archivos ,  carpeta retirado de compartir con info",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Jarold Garcia Cartagena"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "urgent"
+                    },
+                    {
+                        "nombre": "Crear un script en AppScript Google para detectar archivos o carpetas con propietario diferente a info ",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Jarold Garcia Cartagena"
+                        ],
+                        "fecha_inicio": "03/06/25",
+                        "fecha_limite": "07/06/25",
+                        "prioridad": "urgent"
+                    },
+                    {
+                        "nombre": "Investigar sobre uso ApacheNIFI con excel y Mysql",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Jarold Garcia Cartagena"
+                        ],
+                        "fecha_inicio": "15/05/25",
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Crear una solucion para identificar elementos en una foto - Python",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Luis Perez"
+                        ],
+                        "fecha_inicio": "01/04/25",
+                        "fecha_limite": "30/05/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "lectura de factura pdf y transcribir su informacion a un excel - Python",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Yoshiharu Ijuma Rojas"
+                        ],
+                        "fecha_inicio": "01/04/25",
+                        "fecha_limite": "30/05/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Crear el modulo Inventario GM en Java escritorio( Java with ANT) con Mysql.",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "percy barrenechea"
+                        ],
+                        "fecha_inicio": "06/06/25",
+                        "fecha_limite": "13/06/25",
+                        "prioridad": "high"
+                    }
+                ],
+                "completado": [
+                    {
+                        "nombre": "crear base de datos para control de actividades Mysql",
+                        "estado": "completado",
+                        "asignados": [
+                            "Luis Perez",
+                            "DYLAN DAVID DOMINGUEZ PEREZ"
+                        ],
+                        "fecha_inicio": "27/04/25",
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Estudio y Dominio Práctico de Funciones y Conceptos de SQL Server",
+                        "estado": "completado",
+                        "asignados": [
+                            "Jarold Garcia Cartagena"
+                        ],
+                        "fecha_inicio": "07/05/25",
+                        "fecha_limite": "30/05/25",
+                        "prioridad": "low"
+                    },
+                    {
+                        "nombre": "Filtro de correos universitarios enviados con MySQL",
+                        "estado": "completado",
+                        "asignados": [
+                            "sebastian tejeda"
+                        ],
+                        "fecha_inicio": "06/05/25",
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Video Activity Watch uso usuario basico",
+                        "estado": "completado",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": "06/05/25",
+                        "fecha_limite": "08/05/25",
+                        "prioridad": "low"
+                    },
+                    {
+                        "nombre": "Manual de Click up para usuario",
+                        "estado": "completado",
+                        "asignados": [
+                            "Yoshiharu Ijuma Rojas",
+                            "Maricielo Arone"
+                        ],
+                        "fecha_inicio": "05/05/25",
+                        "fecha_limite": "23/05/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Obtener base de datos zktime SQL-LITE y enviar a ivan via GOOGLE DRIVE el backup(SOLO BD)",
+                        "estado": "completado",
+                        "asignados": [
+                            "Jesus Jhoseth Miranda Rojas"
+                        ],
+                        "fecha_inicio": "04/04/25",
+                        "fecha_limite": "04/04/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Migrar base de datos de Administracion y capacitaciones",
+                        "estado": "completado",
+                        "asignados": [
+                            "Jair Pacherrez",
+                            "Maricielo Arone"
+                        ],
+                        "fecha_inicio": "28/03/25",
+                        "fecha_limite": "30/03/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Programa de Macros en Excel para crear tablas, union de celdas, inscrutar image,etc.",
+                        "estado": "completado",
+                        "asignados": [
+                            "Emersón Raúl Apaza Quispe"
+                        ],
+                        "fecha_inicio": "04/04/25",
+                        "fecha_limite": "04/04/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Migrar bd universidades mundial a Mysql Nube",
+                        "estado": "completado",
+                        "asignados": [
+                            "Maricielo Arone",
+                            "Jair Pacherrez"
+                        ],
+                        "fecha_inicio": "27/03/25",
+                        "fecha_limite": "03/04/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Migrar base de datos Excel Empresas Mundial a Mysql Nube",
+                        "estado": "completado",
+                        "asignados": [
+                            "Maricielo Arone",
+                            "Jair Pacherrez"
+                        ],
+                        "fecha_inicio": "28/03/25",
+                        "fecha_limite": "28/03/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "implementacion de reloj biometrico y softwate San Miguel",
+                        "estado": "completado",
+                        "asignados": [
+                            "Yoshiharu Ijuma Rojas"
+                        ],
+                        "fecha_inicio": "26/03/25",
+                        "fecha_limite": "28/03/26",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "integrar marcaciones 2018 a 2023, microsoft access",
+                        "estado": "completado",
+                        "asignados": [
+                            "Milenka Xiomara Cordova Ramos"
+                        ],
+                        "fecha_inicio": "02/05/25",
+                        "fecha_limite": "02/05/25",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Revisar y corregir errore java escritorio con conexion mysql",
+                        "estado": "completado",
+                        "asignados": [
+                            "Emersón Raúl Apaza Quispe",
+                            "percy barrenechea"
+                        ],
+                        "fecha_inicio": "03/03/25",
+                        "fecha_limite": "22/05/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Migración de Excel de datos de practicantes del año 2024",
+                        "estado": "completado",
+                        "asignados": [
+                            "Edson Huarhua"
+                        ],
+                        "fecha_inicio": "26/03/25",
+                        "fecha_limite": "18/04/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "QR para certificado de practicas -  C#",
+                        "estado": "completado",
+                        "asignados": [
+                            "Yoshiharu Ijuma Rojas"
+                        ],
+                        "fecha_inicio": "24/03/25",
+                        "fecha_limite": "28/03/25",
+                        "prioridad": "low"
+                    },
+                    {
+                        "nombre": "Crear una solucion C# o Java para obtener xml,json y csv desde un documento Excel",
+                        "estado": "completado",
+                        "asignados": [
+                            "Juan Carlos"
+                        ],
+                        "fecha_inicio": "05/04/24",
+                        "fecha_limite": "05/04/24",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Crear procedimiento almacenado dinamico version Mysql",
+                        "estado": "completado",
+                        "asignados": [
+                            "Stephany Lisseth Huertas Huallcca "
+                        ],
+                        "fecha_inicio": "25/03/25",
+                        "fecha_limite": "25/03/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Migracion de las bases de datos de las universidades nacional e internacionales al MYSQL",
+                        "estado": "completado",
+                        "asignados": [
+                            "jose rodriguez",
+                            "Kevin Cochachin",
+                            "R Adriano Saavedra",
+                            "Antony Barreto"
+                        ],
+                        "fecha_inicio": "26/11/24",
+                        "fecha_limite": "26/11/24",
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Documentación de script de Python de búsqueda de empresas",
+                        "estado": "completado",
+                        "asignados": [
+                            "Sebastian Cruz"
+                        ],
+                        "fecha_inicio": "11/11/24",
+                        "fecha_limite": "11/11/24",
+                        "prioridad": "normal"
+                    }
+                ]
+            }
+        },
+        "Desarrollo Nivargo": {
+            "Tarea desarrollo": {
+                "pendiente": [
+                    {
+                        "nombre": "Validar error al iniciar la actualizacion del programa  de escritorio Traver c#",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Crear los endpoint para el web api C#  Traver",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "low"
+                    },
+                    {
+                        "nombre": "Validar migracion Fuente visual studio c# 2010 a Visualt Studio 2022 - C# y Cristal Report",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Corregir observaciones de det.Presupuesto SQL",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Agregar emision electornica Caso Compra  - guia Efact c#",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Crear archivo txt segun Especificaciones BCP CajabancoWeb",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": "07/06/25",
+                        "prioridad": "normal"
+                    }
+                ],
+                "en progreso": [
+                    {
+                        "nombre": "Generar una solucion en c# para crear codigo de \"C#  CRUD\" .",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Crear Web FrontEnd angular - Angular - IIS - Ejecutable",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Antony Barreto"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "Modificacion de Medio de pago Cajabanco",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Jarold Garcia Cartagena"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Agregar codificacion para generar guia de remision con Motivo Compra Traver",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "implementar backend plantilla horario - asistencia",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    },
+                    {
+                        "nombre": "agregar modificacion ccontabliidad - voucher tipo - Traver",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": "07/06/25",
+                        "prioridad": "urgent"
+                    },
+                    {
+                        "nombre": "Crear presupuesto para los documentos  con año anterior a 2025 CajabancoWeb",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": "30/05/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Actualizar EFACT_Response registros faltante T116 Huancayo",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Ivan Atanacio"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": "30/05/25",
+                        "prioridad": "normal"
+                    }
+                ]
+            }
+        },
+        "Desarrollo GM": {
+            "Tareas": {
+                "pendiente": [
+                    {
+                        "nombre": "Crearcion del modulo Inventario GM Sistema",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "percy barrenechea"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Sincronizar Base de datos zktime Net Lite y automatizar el proceso de extraccion de marcaciones",
+                        "estado": "pendiente",
+                        "asignados": [
+                            "Yoshiharu Ijuma Rojas"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    }
+                ],
+                "en progreso": [
+                    {
+                        "nombre": "Crear un  web api desplegar con c# y usando origen de datos MS SQL o MYSQL Luego desplegar en Docker para subir a la web de Render",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Luis Perez"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "high"
+                    }
+                ]
+            }
+        },
+        "Administracion GM": {
+            "List": {
+                "en progreso": [
+                    {
+                        "nombre": "Actualizición de portafolio",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Luis Calero"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": "26/05/25",
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Envío de cartas de solicitud a universidades internacionales",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Isabel Florez",
+                            "ERIKA VELASQUEZ CONZA"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    },
+                    {
+                        "nombre": "Elaboración de cartas de solicitud de universidades internacionales",
+                        "estado": "en progreso",
+                        "asignados": [
+                            "Isabel Florez",
+                            "ERIKA VELASQUEZ CONZA"
+                        ],
+                        "fecha_inicio": null,
+                        "fecha_limite": null,
+                        "prioridad": "normal"
+                    }
+                ]
+            }
+        }
+    }
+}
