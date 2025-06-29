@@ -1,3 +1,4 @@
+Actualizado
 # ClickUp Gantt Viewer 📊
 
 Una aplicación web moderna para visualizar tareas de ClickUp en formato de diagrama de Gantt interactivo.
